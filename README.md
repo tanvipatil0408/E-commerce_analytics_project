@@ -6,11 +6,11 @@ Project Objectives
 -Build an interactive dashboard for business stakeholders.
 
 Tools & Technologies
--PostgreSQL
--SQL
--Power BI
--Power Query
--DAX
+-PostgreSQL,
+-SQL,
+-Power BI,
+-Power Query,
+-DAX,
 -Data Modeling
 
 Project Workflow
@@ -22,11 +22,11 @@ Project Workflow
 -Built interactive dashboards for business analysis.
 
 Key Metrics
--Total Revenue: 14.21M
--Total Orders: 98.67K
--Total Customers: 95.42K
--Average Order Value: 144.01
--Average Rating: 4.03
+-Total Revenue: 14.21M,
+-Total Orders: 98.67K,
+-Total Customers: 95.42K,
+-Average Order Value: 144.01,
+-Average Rating: 4.03,
 -On-Time Delivery Rate: 93.23%
 
 Key Insights
@@ -39,15 +39,15 @@ Key Insights
 -Revenue displayed steady growth over the analyzed period.
 
 Skills Demonstrated
--SQL Querying
--Data Cleaning
--Data Transformation
--Data Modeling
--DAX Calculations
--KPI Developmen
--Business Analysis
--Data Visualization
--Dashboard Design
+-SQL Querying,
+-Data Cleaning,
+-Data Transformation,
+-Data Modeling,
+-DAX Calculations,
+-KPI Developmen,
+-Business Analysis,
+-Data Visualization,
+-Dashboard Design,
 -Data Storytelling
 
 
