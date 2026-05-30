@@ -1,11 +1,11 @@
-Project Objectives
+Project Objectives :-
 -Track overall sales performance and order trends.
 -Identify top-performing product categories.
 -Understand customer purchasing patterns.
 -Analyze delivery performance and customer satisfaction.
 -Build an interactive dashboard for business stakeholders.
 
-Tools & Technologies
+Tools & Technologies :-
 PostgreSQL,
 SQL,
 Power BI,
@@ -13,7 +13,7 @@ Power Query,
 DAX,
 Data Modeling
 
-Project Workflow
+Project Workflow :-
 -Imported and explored the e-commerce dataset in PostgreSQL.
 
 -Used SQL queries for data validation and analysis.
@@ -26,7 +26,7 @@ Project Workflow
 
 -Built interactive dashboards for business analysis.
 
-Key Metrics
+Key Metrics :-
 -Total Revenue: 14.21M,
 Total Orders: 98.67K,
 Total Customers: 95.42K,
@@ -34,7 +34,7 @@ Average Order Value: 144.01,
 Average Rating: 4.03,
 On-Time Delivery Rate: 93.23%
 
-Key Insights
+Key Insights :-
 -The business generated over 14 million in revenue from nearly 99 thousand orders.
 -Health & Beauty emerged as the highest revenue-generating product category.
 -Watches & Gifts recorded one of the highest average order values.
@@ -43,7 +43,7 @@ Key Insights
 -São Paulo contributed the highest share of customer revenue among all states.
 -Revenue displayed steady growth over the analyzed period.
 
-Skills Demonstrated
+Skills Demonstrated :-
 -SQL Querying,
 -Data Cleaning,
 -Data Transformation,
@@ -56,5 +56,5 @@ Skills Demonstrated
 -Data Storytelling
 
 
-Conclusion
+Conclusion:-
 This project demonstrates my ability to work with both SQL and Power BI to transform raw business data into meaningful insights. By combining database analysis with interactive visualizations, the dashboard provides a comprehensive view of e-commerce performance and supports data-driven decision-making.
