@@ -49,11 +49,11 @@ Skills Demonstrated :-
  3) Data Transformation
  4) Data Modeling
  5) DAX Calculations
- 6) KPI Developmen
+ 6) KPI Development
  7) Business Analysis
  8) Data Visualization
  9) Dashboard Design
- 10) Data Storytelling
+
 
 
 Conclusion:-
