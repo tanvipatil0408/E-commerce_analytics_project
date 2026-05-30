@@ -27,11 +27,11 @@ Project Workflow :-
  -Built interactive dashboards for business analysis.
 
 Key Metrics :-
- 1) Total Revenue: 14.21M,
- 2) Total Orders: 98.67K,
- 3) Total Customers: 95.42K,
- 4) Average Order Value: 144.01,
- 5) Average Rating: 4.03,
+ 1) Total Revenue: 14.21M
+ 2) Total Orders: 98.67K
+ 3) Total Customers: 95.42K
+ 4) Average Order Value: 144.01
+ 5) Average Rating: 4.03
  6) n-Time Delivery Rate: 93.23%
 
 Key Insights :-
