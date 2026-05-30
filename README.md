@@ -6,12 +6,12 @@ Project Objectives :-
  5) Build an interactive dashboard for business stakeholders.
 
 Tools & Technologies :-
- PostgreSQL,
- SQL,
- Power BI,
- Power Query,
- DAX,
- Data Modeling
+1) PostgreSQL
+2) SQL
+3) Power BI
+4) Power Query
+5) DAX
+6) Data Modeling
 
 Project Workflow :-
  -Imported and explored the e-commerce dataset in PostgreSQL.
@@ -27,12 +27,12 @@ Project Workflow :-
  -Built interactive dashboards for business analysis.
 
 Key Metrics :-
- Total Revenue: 14.21M,
- Total Orders: 98.67K,
- Total Customers: 95.42K,
- Average Order Value: 144.01,
- Average Rating: 4.03,
- On-Time Delivery Rate: 93.23%
+ 1) Total Revenue: 14.21M,
+ 2) Total Orders: 98.67K,
+ 3) Total Customers: 95.42K,
+ 4) Average Order Value: 144.01,
+ 5) Average Rating: 4.03,
+ 6) n-Time Delivery Rate: 93.23%
 
 Key Insights :-
 1) The business generated over 14 million in revenue from nearly 99 thousand orders.
@@ -44,16 +44,16 @@ Key Insights :-
 7) Revenue displayed steady growth over the analyzed period.
 
 Skills Demonstrated :-
- SQL Querying,
- Data Cleaning,
- Data Transformation,
- Data Modeling,
- DAX Calculations,
- KPI Developmen,
- Business Analysis,
- Data Visualization,
- Dashboard Design,
- Data Storytelling
+ 1) SQL Querying
+ 2) Data Cleaning
+ 3) Data Transformation
+ 4) Data Modeling
+ 5) DAX Calculations
+ 6) KPI Developmen
+ 7) Business Analysis
+ 8) Data Visualization
+ 9) Dashboard Design
+ 10) Data Storytelling
 
 
 Conclusion:-
