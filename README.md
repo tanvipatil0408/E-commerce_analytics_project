@@ -1,9 +1,9 @@
 Project Objectives :-
--Track overall sales performance and order trends.
--Identify top-performing product categories.
--Understand customer purchasing patterns.
--Analyze delivery performance and customer satisfaction.
--Build an interactive dashboard for business stakeholders.
+ 1) Track overall sales performance and order trends.
+ 2) Identify top-performing product categories.
+ 3) Understand customer purchasing patterns.
+ 4) Analyze delivery performance and customer satisfaction.
+ 5) Build an interactive dashboard for business stakeholders.
 
 Tools & Technologies :-
  PostgreSQL,
